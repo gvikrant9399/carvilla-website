@@ -1,1 +1,0 @@
-Text file to test Git hub webhooks for jenkins pipeline for project
